@@ -1,0 +1,52 @@
+36
+Graduate School of Business (GSB),Waggener,2
+GSB,UTC,1
+GSB,Greg,1
+GSB,PCL,1
+UTC,PCL,1
+Blanton,PCL,4
+Blanton,Jester,3
+Blanton,Clark,3
+GSB,Mezes,2
+Greg,Jester,2
+Greg,DKR,7
+DKR,LBJ,8
+Jester,Clark,2
+Clark,DKR,5
+Mezes,Parlin,3
+Mezes,Harry Ransom Center,3
+Parlin,Harry Ransom Center,3
+Parlin,UT Tower,5
+Union,UT Tower,4
+Biological Sciences Greenhouses,UT Tower,4
+Biological Sciences Greenhouses,Union,3
+UT Tower,College of Natural Science,1
+Waggener,SAC,1
+Waggener,College of Natural Science,3
+SAC,RLP,1
+College of Natural Science,UT Tower,3
+College of Natural Science,Welch Hall,2
+College of Natural Science,Painter,2
+Painter,GEA,2
+GEA,Burdine,3
+Burdine,PMA,4
+PMA,EER,2
+PMA,ETC,2
+PMA,ASE,4
+ETC,EER,2
+ETC,ASE,3
+ASE,Kinsolving,7
+Kinsolving,Moody,1
+Speech Center,Moody,1
+Speech Center,FAC,4
+FAC,Architecture,2
+FAC,Union,1
+Architecture,Union,1
+Architecture,Parlin,1
+Architecture,UT Tower,2
+EER,San Jacinto Garage,7
+ETC,San Jacinto Garage,6
+San Jacinto Garage,School of Law,5
+School of Law,LBJ,7
+School of Law,Music,2
+Music,LBJ,7
